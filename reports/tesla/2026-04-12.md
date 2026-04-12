@@ -1,7 +1,7 @@
 # Tesla Daily Report - 2026-04-12
 
 ## 오늘의 핵심
-2026년 4월 12일 테슬라 관련 주요 뉴스는 신모델 개발과 생산 종료 소식, 재고 기록 갱신, 그리고 주가 급락 영향 등이다. 포브스는 테슬라 ‘모델 2’ 부활 소식을 전했고, Electrek는 모델 S·X 플래드 시리즈의 최종 ‘시그니처 시리즈’ 판매를 알렸다. CleanTechnica는 테슬라가 기록적 재고를 쌓고 있다고 보도했다. 모틀리풀은 테슬라 주가 30% 하락이 전기차 주식시장에 파급되었다고 전했고, Seeking Alpha는 테슬라의 등급 상향 소식을 보도했다. 또한, Autonocion.com은 테슬라가 일부 고가 기능을 원격 비활성화하기 시작했음을 전했다. 전반적으로 신차 개발, 판매 전략 변화, 재고 관리 문제와 시장 반응이 부각되었다.
+4월 12일 테슬라 주요 뉴스는 '모델 2' 재출시 가능성, 모델 S·X 플래드 시그니처 에디션 마지막 생산, 재고 기록적 증가, 원격 기능 비활성화 및 저가형 SUV 개발 소식으로 요약된다. 재고 급증은 판매 압박 신호이며, 원격 기능 비활성화는 고객 만족도에 변수다.
 
 ## 우선순위 상위 5개
 
@@ -9,85 +9,85 @@
 - 기사 ID: article-001
 - 출처: Forbes
 - 발행 시각: Sun, 12 Apr 2026 01:54:05 GMT
-- 카테고리: manufacturing
-- 중요도: 0.85
-- 한줄 요약: 포브스는 테슬라 ‘모델 2’의 부활 소식을 보도했다.
-- 왜 중요한가: 새로운 보급형 모델 출시는 테슬라의 시장 확장 및 가격 경쟁력 강화를 의미하며, 미래 성장 동력으로 주목된다.
+- 카테고리: product_impact
+- 중요도: 0.5
+- 한줄 요약: '모델 2' 프로젝트가 다시 부활해 시장 관심을 받고 있다.
+- 왜 중요한가: 중저가 전기차 시장 경쟁력 강화 및 새로운 수익원 확보 기대.
 - 링크: https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGxLNERYMVFOU29Fandtbm1vT3BDNkV5VS1uMHE3ZDVSeWVvQzNkazFWQlktV2lILVF4MEJCWUZxNjgtanl3d0tyT0w0Slg1SmhjY2tzVWhRRkhYVld0Q09ZQUJXc3l0bmtmejZJR1FQRG8yQlpsVW9KSzZBVi1id1ZvSVliN0c2cVVvNG5ETmRSSWlH?oc=5
 
 
-### 2. Tesla doing final ‘Signature Series’ run of Model S and X Plaid — starts at $159,420 - Electrek
-- 기사 ID: article-002
-- 출처: Electrek
-- 발행 시각: Sat, 11 Apr 2026 19:45:00 GMT
-- 카테고리: manufacturing
-- 중요도: 0.75
-- 한줄 요약: Electrek는 모델 S와 X 플래드의 최종 ‘시그니처 시리즈’ 판매 시작을 알렸다.
-- 왜 중요한가: 기존 인기 모델의 최종 특수 모델 출시는 브랜드 충성도 제고 및 수익 극대화 전략의 일환이다.
-- 링크: https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1FxbXZiVS1YWEZRb295OU5jV2llckQyWGNWZ1FpcnlYelcwYWtDVGs2SEkzODRVcml3VzVQT2ZwS3d3R0NPdlJGdEcydllmRHhndld4NU5hMGVlbk1UdmZETm1xVHptU0poRDVtYU5iT2paeHFqMGNCMXFqUDNBamtpaVpRRGw5QUE?oc=5
-
-
-### 3. Tesla Sitting on Record Inventory - CleanTechnica
+### 2. Tesla Sitting on Record Inventory - CleanTechnica
 - 기사 ID: article-004
 - 출처: CleanTechnica
 - 발행 시각: Sun, 12 Apr 2026 03:36:49 GMT
-- 카테고리: manufacturing
-- 중요도: 0.7
-- 한줄 요약: CleanTechnica는 테슬라가 기록적인 재고 수준에 있다고 보도했다.
-- 왜 중요한가: 재고 증가 문제는 수요 둔화 또는 생산 계획 조정 필요성을 시사하며, 단기적 사업 운영 리스크가 존재함을 나타낸다.
+- 카테고리: deliveries
+- 중요도: 0.48
+- 한줄 요약: 테슬라의 재고가 사상 최고 수준에 이르러 판매 둔화 우려가 커지고 있다.
+- 왜 중요한가: 판매량 감소 가능성 및 수익성 압박 요인으로 작용할 수 있음.
 - 링크: https://news.google.com/rss/articles/CBMie0FVX3lxTE51anM4Z0k2N1E0X0ptVnc2VVRuZ0U4U194RFhWOEVpbUJiV3YzcjQ0RzRmUjBuQ2xqZ3d0YVNEZWEtclhmUFViSXJ5ZW1xWTg0eU1QMkQ4WXNaYmZ4YVdaN1FhaFByTGZYbEo1UVRDUXFqV3NQOXNubmViTdIBgwFBVV95cUxQQnRlWFN5UElYZ0J3SzU0R2ZOQjlIRTh0RXlYT2VXODF5bkU1NXBfb2xnRTlZN0cyNy1nN1RVMVQwdURRakZocUVvZ2VmRjNPYndUcTZfSWl1ejFCYjJwdnVrcHZBU0MzWHRjQ0JSeHk5ZTk1eFFBdzAzeWpDQjNFYTExTQ?oc=5
 
 
-### 4. The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching. - The Motley Fool
-- 기사 ID: article-005
-- 출처: The Motley Fool
-- 발행 시각: Sun, 12 Apr 2026 01:01:00 GMT
-- 카테고리: market_sentiment
-- 중요도: 0.68
-- 한줄 요약: 모틀리풀은 테슬라 주가 30% 급락이 전기차 주식에 광범위한 영향을 미쳤다고 보도했다.
-- 왜 중요한가: 주가 급락은 투자 심리에 부정적 영향을 주며, 전기차 산업 전반의 변동성 및 투자 위험 증가를 보여준다.
-- 링크: https://news.google.com/rss/articles/CBMilAFBVV95cUxQZW5ESnZ6T1p5VEpUaC1wY2RsM0xJWVhyLXpnejNsODJLOEVmaXo1aG10eW5jZTlKM0E2MEdHV0h5Wm0xbllKZHlHaVZKdEFuejNUTU5SdWlIZk1yeVIwajUxV0VLUXJDS0RqTXkxYnBwbXlzcVVPNE9TR2hDOFRaR3pnVHJkZEtwQTVMTElqckR0Vmlr?oc=5
+### 3. Tesla doing final ‘Signature Series’ run of Model S and X Plaid — starts at $159,420 - Electrek
+- 기사 ID: article-002
+- 출처: Electrek
+- 발행 시각: Sat, 11 Apr 2026 19:45:00 GMT
+- 카테고리: product_impact
+- 중요도: 0.42
+- 한줄 요약: 모델 S와 X 플래드 시그니처 시리즈의 마지막 생산이 시작되었다.
+- 왜 중요한가: 고성능 모델의 한정판 생산 종료는 브랜드 가치 유지와 팬층 결집 효과 기대.
+- 링크: https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1FxbXZiVS1YWEZRb295OU5jV2llckQyWGNWZ1FpcnlYelcwYWtDVGs2SEkzODRVcml3VzVQT2ZwS3d3R0NPdlJGdEcydllmRHhndld4NU5hMGVlbk1UdmZETm1xVHptU0poRDVtYU5iT2paeHFqMGNCMXFqUDNBamtpaVpRRGw5QUE?oc=5
 
 
-### 5. Tesla just started remotely disabling one of its most expensive features on thousands of cars worldwide, and there are no refunds - Autonocion.com
+### 4. Tesla just started remotely disabling one of its most expensive features on thousands of cars worldwide, and there are no refunds - Autonocion.com
 - 기사 ID: article-012
 - 출처: Autonocion.com
 - 발행 시각: Sat, 11 Apr 2026 20:30:46 GMT
 - 카테고리: regulation
-- 중요도: 0.65
-- 한줄 요약: Autonocion.com은 테슬라가 세계적으로 수천 대 차량의 일부 고가 기능을 원격 비활성화하고 있다고 보도했다.
-- 왜 중요한가: 기능 비활성화 조치는 고객 반발 및 법적 쟁점 가능성을 내포하며, 기업 평판 및 규제 대응에 영향 준다.
+- 중요도: 0.38
+- 한줄 요약: 고가 기능 중 하나가 원격으로 비활성화되고 있으며 환불은 제공되지 않는다.
+- 왜 중요한가: 소비자 불만과 법적 이슈 발생 가능성 내재.
 - 링크: https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTkwwQWRWZjg3aWRhYWJFb0lKQnlPeWNoQmN4M1l2TmRPR08wSDF5YmlZSHY1RXJjQ3pkZ2hxUDhDdktGSzJwUXFScE1mdXpCWWJJME9EelNqc2lrWS1VVWhDY0c3MGw1OU92cXo1QVJRMURzVUhZ?oc=5
+
+
+### 5. Tesla is developing a smaller, cheaper SUV, report says - Mashable
+- 기사 ID: article-010
+- 출처: Mashable
+- 발행 시각: Sat, 11 Apr 2026 20:13:10 GMT
+- 카테고리: product_impact
+- 중요도: 0.35
+- 한줄 요약: 테슬라가 소형 저가 SUV 개발 중이라는 보고가 나왔다.
+- 왜 중요한가: 시장 점유율 확대 및 중저가 차량 수요 대응 전략의 일환.
+- 링크: https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wcTViVlg2a2ZBY0h1ekVaVnJ1Yi0wSmY1aEpKWjRBOUNDUDNFLW9UaVNTdVZmVmlQaHkxUHZSRFJ3bFNOZGh1ZGdGUG1TX1pIdGhnV1RDMGd0Zjcz?oc=5
 
 
 ## 카테고리별 요약
 
-### 생산/공장
-모델 2 신차 개발과 모델 S·X 플래드 시리즈 최종판 출시, 그리고 기록적 재고 수준 증가가 관찰되며 생산 및 제품 전략 변화가 뚜렷하다.
+### 판매량/인도량
+테슬라 재고가 기록적 수준으로 증가하였다. 이는 판매 둔화 가능성을 시사하며 단기적 매출 압박 요인으로 분석된다.
 
 
-### 주가/시장심리
-테슬라 주가 한때 30% 하락하며 전기차 전반 주식시장에 악영향 미침. 투자심리 위축 조짐이 감지된다.
+### 생산/제품 영향
+모델 2 재출시, 모델 S·X 플래드 시그니처 마지막 생산, 새로운 저가 SUV 개발 보도가 나와 신제품과 라인업 강화 움직임이 활발하다.
 
 
 ### 규제/소송/정책
-고가 기능 원격 비활성화 조치로 고객 불만과 가능성 있는 법적 대응 우려가 부각됨.
+테슬라가 고가 기능 일부를 원격으로 비활성화했으며, 이에 따른 환불이 없다고 밝혀 소비자 불만과 규제 리스크가 존재한다.
 
 
 ## 전일 대비 변화
-이전 일자 요약 정보가 없어 전일 대비 변화 분석은 불가하지만, 이번 주요 뉴스에서는 신모델 부활, 특수판 출시에 따른 생산 전략 조정과 재고 축적 문제 그리고 주가 급락 영향 등 구체적 사업 리스크와 시장 반응이 부각됨.
+지난 하루 대비 아직 초기 분석 단계이나, 재고 증가와 신차 개발 소식이 눈에 띄며, 원격 기능 비활성화 관련 이슈가 새롭게 부상했다.
 
 ## 체크포인트
 
-- 신모델 ‘모델 2’ 출시 진행 및 시장 반응
+- 모델 2 공식 출시 일정 및 시장 반응
 
-- 모델 S·X 플래드 시그니처 시리즈 판매 성과
+- 재고 수준 변화와 판매 회복 여부
 
-- 재고 수준 지속 여부와 재고 관련 경영 조치
+- 원격 기능 비활성화에 따른 소비자 반응과 법적 대응
 
-- 주가 급락의 원인 분석 및 추가 변동 가능성
+- 저가형 SUV 개발 진척 상황과 가격 전략
 
-- 고가 기능 원격 비활성화에 따른 소비자 반발 및 규제 대응
+- 모델 S·X 플래드 시그니처 에디션의 시장 영향
 
 
 ## 원문 목록
