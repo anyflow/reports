@@ -1,7 +1,7 @@
 # Tesla Daily Report - 2026-04-12
 
 ## 오늘의 핵심
-4월 12일 테슬라 주요 뉴스는 '모델 2' 재출시 가능성, 모델 S·X 플래드 시그니처 에디션 마지막 생산, 재고 기록적 증가, 원격 기능 비활성화 및 저가형 SUV 개발 소식으로 요약된다. 재고 급증은 판매 압박 신호이며, 원격 기능 비활성화는 고객 만족도에 변수다.
+2026년 4월 12일 테슬라의 주요 뉴스는 모델 2 부활, 모델 S와 X Plaid의 시그니처 시리즈 종료, 역사적 재고 기록, 그리고 소형 저가형 SUV 개발 관련 소식이 주를 이룹니다. 또한, 테슬라 주가 30% 급락이 EV 시장 전반에 영향을 미친 점과 운전자 주행비용 분석, 로드스터 공개 임박 소식도 주목받았습니다.
 
 ## 우선순위 상위 5개
 
@@ -11,83 +11,83 @@
 - 발행 시각: Sun, 12 Apr 2026 01:54:05 GMT
 - 카테고리: product_impact
 - 중요도: 0.5
-- 한줄 요약: '모델 2' 프로젝트가 다시 부활해 시장 관심을 받고 있다.
-- 왜 중요한가: 중저가 전기차 시장 경쟁력 강화 및 새로운 수익원 확보 기대.
+- 한줄 요약: 테슬라가 모델 2를 부활시킨다는 소식이 발표되어 중장기 제품 라인업 확장에 주목됩니다.
+- 왜 중요한가: 중저가형 모델 출시로 시장 점유율 확대와 신규 수요 창출 가능성이 큽니다.
 - 링크: https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGxLNERYMVFOU29Fandtbm1vT3BDNkV5VS1uMHE3ZDVSeWVvQzNkazFWQlktV2lILVF4MEJCWUZxNjgtanl3d0tyT0w0Slg1SmhjY2tzVWhRRkhYVld0Q09ZQUJXc3l0bmtmejZJR1FQRG8yQlpsVW9KSzZBVi1id1ZvSVliN0c2cVVvNG5ETmRSSWlH?oc=5
 
 
-### 2. Tesla Sitting on Record Inventory - CleanTechnica
-- 기사 ID: article-004
-- 출처: CleanTechnica
-- 발행 시각: Sun, 12 Apr 2026 03:36:49 GMT
-- 카테고리: deliveries
-- 중요도: 0.48
-- 한줄 요약: 테슬라의 재고가 사상 최고 수준에 이르러 판매 둔화 우려가 커지고 있다.
-- 왜 중요한가: 판매량 감소 가능성 및 수익성 압박 요인으로 작용할 수 있음.
-- 링크: https://news.google.com/rss/articles/CBMie0FVX3lxTE51anM4Z0k2N1E0X0ptVnc2VVRuZ0U4U194RFhWOEVpbUJiV3YzcjQ0RzRmUjBuQ2xqZ3d0YVNEZWEtclhmUFViSXJ5ZW1xWTg0eU1QMkQ4WXNaYmZ4YVdaN1FhaFByTGZYbEo1UVRDUXFqV3NQOXNubmViTdIBgwFBVV95cUxQQnRlWFN5UElYZ0J3SzU0R2ZOQjlIRTh0RXlYT2VXODF5bkU1NXBfb2xnRTlZN0cyNy1nN1RVMVQwdURRakZocUVvZ2VmRjNPYndUcTZfSWl1ejFCYjJwdnVrcHZBU0MzWHRjQ0JSeHk5ZTk1eFFBdzAzeWpDQjNFYTExTQ?oc=5
-
-
-### 3. Tesla doing final ‘Signature Series’ run of Model S and X Plaid — starts at $159,420 - Electrek
+### 2. Tesla doing final ‘Signature Series’ run of Model S and X Plaid — starts at $159,420 - Electrek
 - 기사 ID: article-002
 - 출처: Electrek
 - 발행 시각: Sat, 11 Apr 2026 19:45:00 GMT
 - 카테고리: product_impact
-- 중요도: 0.42
-- 한줄 요약: 모델 S와 X 플래드 시그니처 시리즈의 마지막 생산이 시작되었다.
-- 왜 중요한가: 고성능 모델의 한정판 생산 종료는 브랜드 가치 유지와 팬층 결집 효과 기대.
+- 중요도: 0.4
+- 한줄 요약: 모델 S와 X Plaid의 최종 ‘시그니처 시리즈’ 생산을 시작해 한정판 모델 종료를 알렸습니다.
+- 왜 중요한가: 프리미엄 세그먼트 내 한정판 제품 전략 및 재고 정리를 통한 신모델 준비 가능성이 있음.
 - 링크: https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1FxbXZiVS1YWEZRb295OU5jV2llckQyWGNWZ1FpcnlYelcwYWtDVGs2SEkzODRVcml3VzVQT2ZwS3d3R0NPdlJGdEcydllmRHhndld4NU5hMGVlbk1UdmZETm1xVHptU0poRDVtYU5iT2paeHFqMGNCMXFqUDNBamtpaVpRRGw5QUE?oc=5
 
 
-### 4. Tesla just started remotely disabling one of its most expensive features on thousands of cars worldwide, and there are no refunds - Autonocion.com
-- 기사 ID: article-012
-- 출처: Autonocion.com
-- 발행 시각: Sat, 11 Apr 2026 20:30:46 GMT
-- 카테고리: regulation
+### 3. Tesla Sitting on Record Inventory - CleanTechnica
+- 기사 ID: article-004
+- 출처: CleanTechnica
+- 발행 시각: Sun, 12 Apr 2026 03:36:49 GMT
+- 카테고리: manufacturing
 - 중요도: 0.38
-- 한줄 요약: 고가 기능 중 하나가 원격으로 비활성화되고 있으며 환불은 제공되지 않는다.
-- 왜 중요한가: 소비자 불만과 법적 이슈 발생 가능성 내재.
-- 링크: https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTkwwQWRWZjg3aWRhYWJFb0lKQnlPeWNoQmN4M1l2TmRPR08wSDF5YmlZSHY1RXJjQ3pkZ2hxUDhDdktGSzJwUXFScE1mdXpCWWJJME9EelNqc2lrWS1VVWhDY0c3MGw1OU92cXo1QVJRMURzVUhZ?oc=5
+- 한줄 요약: 테슬라가 사상 최대 수준의 차량 재고를 보유 중임을 보고했습니다.
+- 왜 중요한가: 수요 둔화 또는 공급망 이슈를 시사하며 단기 실적에 부정적 영향 가능.
+- 링크: https://news.google.com/rss/articles/CBMie0FVX3lxTE51anM4Z0k2N1E0X0ptVnc2VVRuZ0U4U194RFhWOEVpbUJiV3YzcjQ0RzRmUjBuQ2xqZ3d0YVNEZWEtclhmUFViSXJ5ZW1xWTg0eU1QMkQ4WXNaYmZ4YVdaN1FhaFByTGZYbEo1UVRDUXFqV3NQOXNubmViTdIBgwFBVV95cUxQQnRlWFN5UElYZ0J3SzU0R2ZOQjlIRTh0RXlYT2VXODF5bkU1NXBfb2xnRTlZN0cyNy1nN1RVMVQwdURRakZocUVvZ2VmRjNPYndUcTZfSWl1ejFCYjJwdnVrcHZBU0MzWHRjQ0JSeHk5ZTk1eFFBdzAzeWpDQjNFYTExTQ?oc=5
 
 
-### 5. Tesla is developing a smaller, cheaper SUV, report says - Mashable
+### 4. Tesla is developing a smaller, cheaper SUV, report says - Mashable
 - 기사 ID: article-010
 - 출처: Mashable
 - 발행 시각: Sat, 11 Apr 2026 20:13:10 GMT
 - 카테고리: product_impact
 - 중요도: 0.35
-- 한줄 요약: 테슬라가 소형 저가 SUV 개발 중이라는 보고가 나왔다.
-- 왜 중요한가: 시장 점유율 확대 및 중저가 차량 수요 대응 전략의 일환.
+- 한줄 요약: 테슬라가 소형·저가형 SUV 개발에 착수했다는 보도가 나왔습니다.
+- 왜 중요한가: 새로운 가격대 제품 출시로 대중적 고객층 확대와 시장 경쟁력 강화 기대.
 - 링크: https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wcTViVlg2a2ZBY0h1ekVaVnJ1Yi0wSmY1aEpKWjRBOUNDUDNFLW9UaVNTdVZmVmlQaHkxUHZSRFJ3bFNOZGh1ZGdGUG1TX1pIdGhnV1RDMGd0Zjcz?oc=5
+
+
+### 5. The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching. - The Motley Fool
+- 기사 ID: article-005
+- 출처: The Motley Fool
+- 발행 시각: Sun, 12 Apr 2026 01:01:00 GMT
+- 카테고리: market_sentiment
+- 중요도: 0.35
+- 한줄 요약: 테슬라 주가 30% 하락이 전기차 주식 전반에 악영향을 주고 있음을 알렸습니다.
+- 왜 중요한가: 시장 심리 악화 및 투자자 우려 증대로 인한 단기 변동성 확대 가능.
+- 링크: https://news.google.com/rss/articles/CBMilAFBVV95cUxQZW5ESnZ6T1p5VEpUaC1wY2RsM0xJWVhyLXpnejNsODJLOEVmaXo1aG10eW5jZTlKM0E2MEdHV0h5Wm0xbllKZHlHaVZKdEFuejNUTU5SdWlIZk1yeVIwajUxV0VLUXJDS0RqTXkxYnBwbXlzcVVPNE9TR2hDOFRaR3pnVHJkZEtwQTVMTElqckR0Vmlr?oc=5
 
 
 ## 카테고리별 요약
 
-### 판매량/인도량
-테슬라 재고가 기록적 수준으로 증가하였다. 이는 판매 둔화 가능성을 시사하며 단기적 매출 압박 요인으로 분석된다.
+### 제품 영향
+모델 2 부활, 모델 S·X Plaid 시그니처 시리즈 종료, 소형 SUV 개발 등 중장기 제품 라인업 확대 움직임이 감지됩니다.
 
 
-### 생산/제품 영향
-모델 2 재출시, 모델 S·X 플래드 시그니처 마지막 생산, 새로운 저가 SUV 개발 보도가 나와 신제품과 라인업 강화 움직임이 활발하다.
+### 생산/공장
+테슬라의 재고가 사상 최대치를 기록하며 수요 및 공급 사정에 변화가 포착됩니다.
 
 
-### 규제/소송/정책
-테슬라가 고가 기능 일부를 원격으로 비활성화했으며, 이에 따른 환불이 없다고 밝혀 소비자 불만과 규제 리스크가 존재한다.
+### 주가/시장심리
+주가 30% 하락으로 전기차 섹터 전반에 파급효과 발생, 투자자 심리 위축과 변동성 리스크가 부각되었습니다.
 
 
 ## 전일 대비 변화
-지난 하루 대비 아직 초기 분석 단계이나, 재고 증가와 신차 개발 소식이 눈에 띄며, 원격 기능 비활성화 관련 이슈가 새롭게 부상했다.
+전일 데이터가 없어 전일 대비 변화 분석은 불가하나, 오늘 주요 뉴스는 신모델 개발과 재고 급증, 그리고 주가 급락 등 테슬라 사업과 시장 심리를 직접적으로 반영하는 내용으로 구성되었습니다.
 
 ## 체크포인트
 
-- 모델 2 공식 출시 일정 및 시장 반응
+- 모델 2 부활과 소형 SUV 개발 진행 상황 및 출시 일정
 
-- 재고 수준 변화와 판매 회복 여부
+- 모델 S와 X Plaid 시그니처 시리즈 판매 추이와 후속 제품 계획
 
-- 원격 기능 비활성화에 따른 소비자 반응과 법적 대응
+- 역대 최대 재고가 단기 판매에 미치는 영향
 
-- 저가형 SUV 개발 진척 상황과 가격 전략
+- 주가 변동성과 전기차 업계 전반에 미치는 영향 분석
 
-- 모델 S·X 플래드 시그니처 에디션의 시장 영향
+- 테슬라의 생산 및 공급망 정상화 여부 점검
 
 
 ## 원문 목록
@@ -114,4 +114,4 @@
 
 - [Tesla: From Bye-Bye To Buy-Buy (Rating Upgrade) - Seeking Alpha](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFZuT3d4Q0hOdV9zWFVfLThNYjRlbVFnS3hHS2pNUzJYY1BQNVozX2lla204YkZ6ZnhaRmZ4aktjbmhxSjQ2TXp3UDlqdXNScWhZdVc4dXdFSllsRGJDc3U1QXpWZlBINVVOUTdjRGpvZnBYVkZkdXdXS09zcmwyNlloR3BubU0tTzNoc0FR?oc=5) | Seeking Alpha | Sat, 11 Apr 2026 13:00:00 GMT | article-011
 
-- [Tesla just started remotely disabling one of its most expensive features on thousands of cars worldwide, and there are no refunds - Autonocion.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTkwwQWRWZjg3aWRhYWJFb0lKQnlPeWNoQmN4M1l2TmRPR08wSDF5YmlZSHY1RXJjQ3pkZ2hxUDhDdktGSzJwUXFScE1mdXpCWWJJME9EelNqc2lrWS1VVWhDY0c3MGw1OU92cXo1QVJRMURzVUhZ?oc=5) | Autonocion.com | Sat, 11 Apr 2026 20:30:46 GMT | article-012
+- [Police seek Tesla driver as witness in deadly North Las Vegas crash - KLAS 8 News Now](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVE4Y1Q3OFNlVnMtWUt6MzNFVktaNVliVktiaG1zRElHVUdLbUx5UFVibVZKR3FOd1RjbVhWLXBLeXZaZ2ZhM0ZUcVNpTnU5ZzVncVI3dmhCZWg0SDFndHhjSWFNLVlvNnBwZmt2VElnbnNlRks5R1J6d243QnJaaW5sdUFKNVZWTkQ3UFZ2eGxYa2hQTnJ3Y2JGbFgxU09tenhDVGgzdkF4a2xEdnfSAbMBQVVfeXFMTmJhZGxCMThqTVNfTno5RVJudEFfUEtoejlKblJjYkFFaDFvRkticmxla21zbFJacmRQQVRtMjhZQ3JWUEd4bm1MTk5GT1kyV0NaWURrVDlHSC1ybG5tVFhhMDV0Vmwyc3dWYkFxdEcxRzRJVTJtM1FKR0VKelE1TFU1LXlHd1RhS1JXT1ZCaXAzYUQ5T3BSMFlRY3VlWFFYWTZjY0ZsSTlHRTBQYWQwTWRTQ2c?oc=5) | KLAS 8 News Now | Sun, 12 Apr 2026 05:20:45 GMT | article-012
