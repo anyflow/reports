@@ -1,0 +1,36 @@
+# {{ target_name }} Daily Report - {{ date }}
+
+## 오늘의 핵심
+{{ top_summary }}
+
+## 우선순위 상위 {{ top_articles|length }}개
+{% for article in top_articles %}
+### {{ article.rank }}. {{ article.title }}
+- 기사 ID: {{ article.article_id }}
+- 출처: {{ article.publisher }}
+- 발행 시각: {{ article.published_at }}
+- 카테고리: {{ article.category }}
+- 중요도: {{ article.priority_score }}
+- 한줄 요약: {{ article.one_line_summary }}
+- 왜 중요한가: {{ article.why_it_matters }}
+- 링크: {{ article.url }}
+
+{% endfor %}
+## 카테고리별 요약
+{% for section in category_sections %}
+### {{ section.category_label }}
+{{ section.summary }}
+
+{% endfor %}
+## 전일 대비 변화
+{{ day_over_day_changes }}
+
+## 체크포인트
+{% for item in watchpoints %}
+- {{ item }}
+{% endfor %}
+
+## 원문 목록
+{% for article in all_articles %}
+- [{{ article.title }}]({{ article.url }}) | {{ article.publisher }} | {{ article.published_at }} | {{ article.article_id }}
+{% endfor %}

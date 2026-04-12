@@ -1,0 +1,59 @@
+version: 1
+profile:
+  name: samsung-electronics-daily-default
+  description: Samsung Electronics 일일 기업 인텔리전스 기본 프로필
+sources:
+  include:
+    - reuters.com
+    - bloomberg.com
+    - cnbc.com
+    - wsj.com
+    - ft.com
+    - koreaherald.com
+    - businesskorea.co.kr
+  exclude:
+    - reddit.com
+article_selection:
+  max_articles_per_day: 20
+  deduplication:
+    by_url: true
+    by_title_similarity: true
+    similarity_threshold: 0.87
+  minimum_quality_score: 0.55
+classification:
+  categories:
+    - id: earnings
+      label: 실적
+    - id: semiconductors
+      label: 반도체
+    - id: devices
+      label: 디바이스/제품
+    - id: manufacturing
+      label: 생산/공급망
+    - id: regulation
+      label: 규제/정책
+    - id: market_sentiment
+      label: 주가/시장심리
+    - id: competition
+      label: 경쟁사/시장경쟁
+priority_rules:
+  weights:
+    business_impact: 0.30
+    product_impact: 0.20
+    regulatory_impact: 0.20
+    market_signal: 0.15
+    execution_risk: 0.15
+summary_policy:
+  language: ko
+  tone: concise-analyst
+  top_n: 5
+  compare_with_previous_day: true
+discussion_policy:
+  allow_followup_analysis: true
+  answer_grounded_only: true
+  cite_article_ids: true
+output:
+  markdown:
+    path_pattern: reports/samsung-electronics/{{date}}.md
+  json:
+    path_pattern: articles/samsung-electronics/{{date}}.json
