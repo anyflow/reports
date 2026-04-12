@@ -1,0 +1,267 @@
+{
+  "date": "2026-04-12",
+  "target_name": "Tesla",
+  "slug": "tesla",
+  "profile_name": "tesla-daily-default",
+  "top_summary": "4월 12일 테슬라 뉴스 주요 내용은 모델 S와 X Plaid의 최종 ‘Signature Series’ 생산 돌입, 새로운 보급형 모델 ‘Model 2’ 부활 소식, 이번 달 예정된 로드스터 공개, 소형 저가형 SUV 개발 계획, 그리고 테슬라 주가 급락과 이에 따른 전기차 시장 영향 등이다. 특히, 모델 S/X Plaid 한정판 출시는 고가 프리미엄 라인 강화로 사업 영향도가 높으며, ‘Model 2’ 및 소형 SUV 개발은 제품 포트폴리오 확대를 기대하게 한다. 주가 변동과 함께 스페이스X 상장 및 테슬라-스페이스X 합병 가능성 소식도 시장 심리에 변수로 작용 중이다.",
+  "top_articles": [
+    {
+      "article_id": "article-001",
+      "title": "Tesla doing final ‘Signature Series’ run of Model S and X Plaid — starts at $159,420 - Electrek",
+      "summary": "Tesla doing final ‘Signature Series’ run of Model S and X Plaid — starts at $159,420 Electrek",
+      "publisher": "Electrek",
+      "source_url": "https://electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1FxbXZiVS1YWEZRb295OU5jV2llckQyWGNWZ1FpcnlYelcwYWtDVGs2SEkzODRVcml3VzVQT2ZwS3d3R0NPdlJGdEcydllmRHhndld4NU5hMGVlbk1UdmZETm1xVHptU0poRDVtYU5iT2paeHFqMGNCMXFqUDNBamtpaVpRRGw5QUE?oc=5",
+      "published_at": "Sat, 11 Apr 2026 19:45:00 GMT",
+      "category": "manufacturing",
+      "priority_score": 0.78,
+      "one_line_summary": "테슬라가 모델 S와 X Plaid의 최종 ‘Signature Series’ 생산을 시작해 최고가 159,420달러부터 판매한다.",
+      "why_it_matters": "프리미엄 모델 최종 한정판 발매로 브랜드 가치와 수익성 강화에 기여하며 생산 전략의 중요한 이정표가 된다.",
+      "rank": 1
+    },
+    {
+      "article_id": "article-002",
+      "title": "Tesla ‘Model 2’ Rises From The Ashes - Forbes",
+      "summary": "Tesla ‘Model 2’ Rises From The Ashes Forbes",
+      "publisher": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGxLNERYMVFOU29Fandtbm1vT3BDNkV5VS1uMHE3ZDVSeWVvQzNkazFWQlktV2lILVF4MEJCWUZxNjgtanl3d0tyT0w0Slg1SmhjY2tzVWhRRkhYVld0Q09ZQUJXc3l0bmtmejZJR1FQRG8yQlpsVW9KSzZBVi1id1ZvSVliN0c2cVVvNG5ETmRSSWlH?oc=5",
+      "published_at": "Sun, 12 Apr 2026 01:54:05 GMT",
+      "category": "product",
+      "priority_score": 0.65,
+      "one_line_summary": "테슬라의 보급형 신모델 ‘Model 2’가 부활했다는 소식이 전해졌다.",
+      "why_it_matters": "보급형 모델 출시 재개는 가격 경쟁력 확보와 대중 시장 확대에 중요한 역할을 할 것으로 기대된다.",
+      "rank": 2
+    },
+    {
+      "article_id": "article-006",
+      "title": "Tesla is developing a smaller, cheaper SUV, report says - Mashable",
+      "summary": "Tesla is developing a smaller, cheaper SUV, report says Mashable",
+      "publisher": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wcTViVlg2a2ZBY0h1ekVaVnJ1Yi0wSmY1aEpKWjRBOUNDUDNFLW9UaVNTdVZmVmlQaHkxUHZSRFJ3bFNOZGh1ZGdGUG1TX1pIdGhnV1RDMGd0Zjcz?oc=5",
+      "published_at": "Sat, 11 Apr 2026 20:13:10 GMT",
+      "category": "product",
+      "priority_score": 0.6,
+      "one_line_summary": "테슬라가 소형 저가형 SUV 개발 중이라는 보도가 나왔다.",
+      "why_it_matters": "새로운 소형 SUV는 다양한 소비자층 공략과 시장 점유율 확대에 긍정적 효과를 줄 전망이다.",
+      "rank": 3
+    },
+    {
+      "article_id": "article-008",
+      "title": "The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching. - The Motley Fool",
+      "summary": "The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching. The Motley Fool",
+      "publisher": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZW5ESnZ6T1p5VEpUaC1wY2RsM0xJWVhyLXpnejNsODJLOEVmaXo1aG10eW5jZTlKM0E2MEdHV0h5Wm0xbllKZHlHaVZKdEFuejNUTU5SdWlIZk1yeVIwajUxV0VLUXJDS0RqTXkxYnBwbXlzcVVPNE9TR2hDOFRaR3pnVHJkZEtwQTVMTElqckR0Vmlr?oc=5",
+      "published_at": "Sun, 12 Apr 2026 00:22:46 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.58,
+      "one_line_summary": "테슬라 주가가 30% 급락하며 전기차 시장 전반에 파급 효과가 발생했다.",
+      "why_it_matters": "주가 급락은 투자심리 악화와 산업 전반에 부정적 영향을 미치며 주의 깊은 모니터링이 요구된다.",
+      "rank": 4
+    },
+    {
+      "article_id": "article-007",
+      "title": "SpaceX Is Going Public. Why a Tesla Merger Could Be Musk’s Real Endgame. - Barron's",
+      "summary": "SpaceX Is Going Public. Why a Tesla Merger Could Be Musk’s Real Endgame. Barron's",
+      "publisher": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUx3WUM5Nm15WTFxLWhvMFFrcFRxdnViYk9XVXZLb3ViU00xOV9QcGoyUkRaOW93bGI0aVBBRHZnSi1tUFlrNVhPdUhjTjJhM3M3Q0p4QlVHSUVvaGRGNkFCdWNwMTk2cGp4RlhteEl4YnBEZlluUWFWUnpkeWNTNA?oc=5",
+      "published_at": "Sat, 11 Apr 2026 16:37:00 GMT",
+      "category": "competition",
+      "priority_score": 0.55,
+      "one_line_summary": "스페이스X 상장 추진과 함께 테슬라-스페이스X 합병 가능성이 시장에서 거론되고 있다.",
+      "why_it_matters": "두 회사 간 합병 가능성은 향후 기업 구조 변화와 장기 성장 전략에 영향을 줄 수 있는 중대한 이슈다.",
+      "rank": 5
+    }
+  ],
+  "category_sections": [
+    {
+      "category": "manufacturing",
+      "category_label": "생산/공장",
+      "summary": "테슬라는 모델 S 및 X Plaid ‘Signature Series’의 최종 생산을 개시해 고가 프리미엄 모델 생산을 마무리하는 중요한 단계를 밟았다."
+    },
+    {
+      "category": "product",
+      "category_label": "제품/신모델",
+      "summary": "신규 보급형 모델인 ‘Model 2’ 부활과 소형 저가형 SUV 개발 뉴스가 이어져 제품 라인업 확대와 시장 확대를 꾀하고 있다."
+    },
+    {
+      "category": "market_sentiment",
+      "category_label": "주가/시장심리",
+      "summary": "테슬라 주가 30% 급락 소식이 투자자 심리에 충격을 주며 관련 전기차 주식에 광범위한 영향을 미쳤다."
+    },
+    {
+      "category": "competition",
+      "category_label": "경쟁사/시장경쟁",
+      "summary": "스페이스X 상장과 테슬라와의 합병 가능성 제기가 장기적 경쟁력과 시장지배력에 대해 관심이 집중되고 있다."
+    }
+  ],
+  "day_over_day_changes": "기존 요약이 없어 전일 대비 직접 비교는 불가능하나, 오늘은 신모델 생산과 출시, 주가 변동 그리고 미래 신차 개발 계획 소식이 시장 내 주요 이슈로 부각되었다.",
+  "watchpoints": [
+    "모델 S/X Plaid ‘Signature Series’ 한정판 판매 추이와 수익성 영향 모니터링 필요",
+    "보급형 Model 2의 구체적 출시 일정 및 가격 전략 공개 여부 주시",
+    "소형 저가 SUV 개발 진행 상황과 경쟁사 제품과의 차별성 검토",
+    "주가 급락 원인 분석과 추가 변동성 리스크 관리 체계 점검",
+    "스페이스X 상장 및 테슬라와의 합병 논의 전개 상황과 시장 반응 관찰"
+  ],
+  "all_articles": [
+    {
+      "article_id": "article-001",
+      "title": "Tesla doing final ‘Signature Series’ run of Model S and X Plaid — starts at $159,420 - Electrek",
+      "summary": "Tesla doing final ‘Signature Series’ run of Model S and X Plaid — starts at $159,420 Electrek",
+      "publisher": "Electrek",
+      "source_url": "https://electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1FxbXZiVS1YWEZRb295OU5jV2llckQyWGNWZ1FpcnlYelcwYWtDVGs2SEkzODRVcml3VzVQT2ZwS3d3R0NPdlJGdEcydllmRHhndld4NU5hMGVlbk1UdmZETm1xVHptU0poRDVtYU5iT2paeHFqMGNCMXFqUDNBamtpaVpRRGw5QUE?oc=5",
+      "published_at": "Sat, 11 Apr 2026 19:45:00 GMT",
+      "category": "manufacturing",
+      "priority_score": 0.78,
+      "one_line_summary": "테슬라가 모델 S와 X Plaid의 최종 ‘Signature Series’ 생산을 시작해 최고가 159,420달러부터 판매한다.",
+      "why_it_matters": "프리미엄 모델 최종 한정판 발매로 브랜드 가치와 수익성 강화에 기여하며 생산 전략의 중요한 이정표가 된다."
+    },
+    {
+      "article_id": "article-002",
+      "title": "Tesla ‘Model 2’ Rises From The Ashes - Forbes",
+      "summary": "Tesla ‘Model 2’ Rises From The Ashes Forbes",
+      "publisher": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGxLNERYMVFOU29Fandtbm1vT3BDNkV5VS1uMHE3ZDVSeWVvQzNkazFWQlktV2lILVF4MEJCWUZxNjgtanl3d0tyT0w0Slg1SmhjY2tzVWhRRkhYVld0Q09ZQUJXc3l0bmtmejZJR1FQRG8yQlpsVW9KSzZBVi1id1ZvSVliN0c2cVVvNG5ETmRSSWlH?oc=5",
+      "published_at": "Sun, 12 Apr 2026 01:54:05 GMT",
+      "category": "product",
+      "priority_score": 0.65,
+      "one_line_summary": "테슬라의 보급형 신모델 ‘Model 2’가 부활했다는 소식이 전해졌다.",
+      "why_it_matters": "보급형 모델 출시 재개는 가격 경쟁력 확보와 대중 시장 확대에 중요한 역할을 할 것으로 기대된다."
+    },
+    {
+      "article_id": "article-003",
+      "title": "Tesla Roadster unveiling set for this month: what to expect - Teslarati",
+      "summary": "Tesla Roadster unveiling set for this month: what to expect Teslarati",
+      "publisher": "Teslarati",
+      "source_url": "https://www.teslarati.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqN29wei12NXM2cW5PUlJfZWNLT0YxdFVMUmJoNVRzTHM3RUttY3BjU1liUWI5cVVvZGhza1BScTkyMVdVbTVsYW9zMVlRVThVZTJOTWlIZWVVYlpqX3QzV1JTWjkxSmh5YzZ2SVVVRFVxZW1H?oc=5",
+      "published_at": "Sat, 11 Apr 2026 15:34:33 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.5,
+      "one_line_summary": "Tesla Roadster unveiling set for this month: what to expect Teslarati",
+      "why_it_matters": "시장 해석이 필요한 뉴스입니다."
+    },
+    {
+      "article_id": "article-004",
+      "title": "Buying A NEW Tesla Model Y RWD... After Saying USED Is Better Ifc (KU39Ew45Sd) - Mshale",
+      "summary": "Buying A NEW Tesla Model Y RWD... After Saying USED Is Better Ifc (KU39Ew45Sd) Mshale",
+      "publisher": "Mshale",
+      "source_url": "https://mshale.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QNTZiRDhZV3IzbmpBSjJ4YVhOVTFrN2dMWk9wNWl2RHlab1MwTFlDNnhKbGRBcWU1YnB6U3ZLMVNNMmxBSzNqUF9jT2ljSTcwa3FIeWlNSVBjMUJ1T2NGTnpFRQ?oc=5",
+      "published_at": "Sat, 11 Apr 2026 19:45:35 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.5,
+      "one_line_summary": "Buying A NEW Tesla Model Y RWD... After Saying USED Is Better Ifc (KU39Ew45Sd) Mshale",
+      "why_it_matters": "시장 해석이 필요한 뉴스입니다."
+    },
+    {
+      "article_id": "article-005",
+      "title": "Man Shares His Secret To How He Got His Tesla Model 3 To Last 359,999 Miles: ‘My Corolla Didn’t Last 300k Miles’ - Motor1.com",
+      "summary": "Man Shares His Secret To How He Got His Tesla Model 3 To Last 359,999 Miles: ‘My Corolla Didn’t Last 300k Miles’ Motor1.com",
+      "publisher": "Motor1.com",
+      "source_url": "https://www.motor1.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51OGxwUUlyZHNSMHkya3ZvVGNRSEtpbTFDN2tRUFZuZm04eDNJVXNqUl9sQm5XOWtENVktd3dZZ29FNG5LWHptQUI5NmlnQmVieDY4TmtnRkF5TTBzVEl0UmhxVm52M2gwSWJjUFRn?oc=5",
+      "published_at": "Sun, 12 Apr 2026 03:13:29 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.5,
+      "one_line_summary": "Man Shares His Secret To How He Got His Tesla Model 3 To Last 359,999 Miles: ‘My Corolla Didn’t Last 300k Miles’ Motor1.com",
+      "why_it_matters": "시장 해석이 필요한 뉴스입니다."
+    },
+    {
+      "article_id": "article-006",
+      "title": "Tesla is developing a smaller, cheaper SUV, report says - Mashable",
+      "summary": "Tesla is developing a smaller, cheaper SUV, report says Mashable",
+      "publisher": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wcTViVlg2a2ZBY0h1ekVaVnJ1Yi0wSmY1aEpKWjRBOUNDUDNFLW9UaVNTdVZmVmlQaHkxUHZSRFJ3bFNOZGh1ZGdGUG1TX1pIdGhnV1RDMGd0Zjcz?oc=5",
+      "published_at": "Sat, 11 Apr 2026 20:13:10 GMT",
+      "category": "product",
+      "priority_score": 0.6,
+      "one_line_summary": "테슬라가 소형 저가형 SUV 개발 중이라는 보도가 나왔다.",
+      "why_it_matters": "새로운 소형 SUV는 다양한 소비자층 공략과 시장 점유율 확대에 긍정적 효과를 줄 전망이다."
+    },
+    {
+      "article_id": "article-007",
+      "title": "SpaceX Is Going Public. Why a Tesla Merger Could Be Musk’s Real Endgame. - Barron's",
+      "summary": "SpaceX Is Going Public. Why a Tesla Merger Could Be Musk’s Real Endgame. Barron's",
+      "publisher": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUx3WUM5Nm15WTFxLWhvMFFrcFRxdnViYk9XVXZLb3ViU00xOV9QcGoyUkRaOW93bGI0aVBBRHZnSi1tUFlrNVhPdUhjTjJhM3M3Q0p4QlVHSUVvaGRGNkFCdWNwMTk2cGp4RlhteEl4YnBEZlluUWFWUnpkeWNTNA?oc=5",
+      "published_at": "Sat, 11 Apr 2026 16:37:00 GMT",
+      "category": "competition",
+      "priority_score": 0.55,
+      "one_line_summary": "스페이스X 상장 추진과 함께 테슬라-스페이스X 합병 가능성이 시장에서 거론되고 있다.",
+      "why_it_matters": "두 회사 간 합병 가능성은 향후 기업 구조 변화와 장기 성장 전략에 영향을 줄 수 있는 중대한 이슈다."
+    },
+    {
+      "article_id": "article-008",
+      "title": "The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching. - The Motley Fool",
+      "summary": "The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching. The Motley Fool",
+      "publisher": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZW5ESnZ6T1p5VEpUaC1wY2RsM0xJWVhyLXpnejNsODJLOEVmaXo1aG10eW5jZTlKM0E2MEdHV0h5Wm0xbllKZHlHaVZKdEFuejNUTU5SdWlIZk1yeVIwajUxV0VLUXJDS0RqTXkxYnBwbXlzcVVPNE9TR2hDOFRaR3pnVHJkZEtwQTVMTElqckR0Vmlr?oc=5",
+      "published_at": "Sun, 12 Apr 2026 00:22:46 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.58,
+      "one_line_summary": "테슬라 주가가 30% 급락하며 전기차 시장 전반에 파급 효과가 발생했다.",
+      "why_it_matters": "주가 급락은 투자심리 악화와 산업 전반에 부정적 영향을 미치며 주의 깊은 모니터링이 요구된다."
+    },
+    {
+      "article_id": "article-009",
+      "title": "Guys race a Tesla Model 3 against a Toyota Camry for 544 miles and then break down the fuel costs and time with results that pique interest - supercarblondie.com",
+      "summary": "Guys race a Tesla Model 3 against a Toyota Camry for 544 miles and then break down the fuel costs and time with results that pique interest supercarblondie.com",
+      "publisher": "supercarblondie.com",
+      "source_url": "https://supercarblondie.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGZzemhfVXJBVGlRcHRaUUJSdTROTlpGSXI1MkZBSG5wc0wtYndra2Y3czVkMG9FTDVGUllaSktwU016Q0lWZTN1RS1FcWFaWEhMaXJGZDNHZE1BTk5RRmhRV09GYmRjMVpkc250TG9VMTRKeFQzd1JkY3FySEEyeFdZV0MtaFdNZmJka2dhdkI?oc=5",
+      "published_at": "Sat, 11 Apr 2026 18:34:00 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.5,
+      "one_line_summary": "Guys race a Tesla Model 3 against a Toyota Camry for 544 miles and then break down the fuel costs and time with results that pique interest supercarblondie.com",
+      "why_it_matters": "시장 해석이 필요한 뉴스입니다."
+    },
+    {
+      "article_id": "article-010",
+      "title": "Tesla: From Bye-Bye To Buy-Buy (Rating Upgrade) - Seeking Alpha",
+      "summary": "Tesla: From Bye-Bye To Buy-Buy (Rating Upgrade) Seeking Alpha",
+      "publisher": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFZuT3d4Q0hOdV9zWFVfLThNYjRlbVFnS3hHS2pNUzJYY1BQNVozX2lla204YkZ6ZnhaRmZ4aktjbmhxSjQ2TXp3UDlqdXNScWhZdVc4dXdFSllsRGJDc3U1QXpWZlBINVVOUTdjRGpvZnBYVkZkdXdXS09zcmwyNlloR3BubU0tTzNoc0FR?oc=5",
+      "published_at": "Sat, 11 Apr 2026 13:00:00 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.5,
+      "one_line_summary": "Tesla: From Bye-Bye To Buy-Buy (Rating Upgrade) Seeking Alpha",
+      "why_it_matters": "시장 해석이 필요한 뉴스입니다."
+    },
+    {
+      "article_id": "article-011",
+      "title": "Tesla Changed How Cars Get Updates—So How Did BYD Take the Lead? - Autoblog",
+      "summary": "Tesla Changed How Cars Get Updates—So How Did BYD Take the Lead? Autoblog",
+      "publisher": "Autoblog",
+      "source_url": "https://www.autoblog.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVJ0OGhIcHBxVERMdktab01ZdzZwenhxQTFIbURGcTNvb3VBeXNHVzlTUnZsX0cyY0ZhaExpRnYtN3dMUkp1U1daQk1IS2RqX2RIQkg0TENDeERIQS1lTndYZmNOMlZOZ1BkdmtXMFdHYUl3U29tc2ZzaWZzWXh1a0lmeDNpRmp4Qk5sNUhwMzFVRHhyaUhrQw?oc=5",
+      "published_at": "Sat, 11 Apr 2026 22:30:00 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.5,
+      "one_line_summary": "Tesla Changed How Cars Get Updates—So How Did BYD Take the Lead? Autoblog",
+      "why_it_matters": "시장 해석이 필요한 뉴스입니다."
+    },
+    {
+      "article_id": "article-012",
+      "title": "Ross Gerber Thinks Tesla's Rumored Affordable Model Is Cybercab With A Steering: 'They'll Say Anything…' - Yahoo Finance UK",
+      "summary": "Ross Gerber Thinks Tesla's Rumored Affordable Model Is Cybercab With A Steering: 'They'll Say Anything…' Yahoo Finance UK",
+      "publisher": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnFGd0h3QUlCM3JtTjNSMVBzTmpPa2NvZENHODVwcWlWSXFlYnpLdURMcmdWbzFGOEdEZWRUZmYwNFJtUFFaS3c4Vzdxc3hDdlRjd0g2ZjBka21oNTNyTTR4RUxET2JPZV9JMTRBTHFBUG5OQWN1aWVVZUs3RlhTS1E3VHA5VHlCeXc?oc=5",
+      "published_at": "Sun, 12 Apr 2026 00:31:00 GMT",
+      "category": "market_sentiment",
+      "priority_score": 0.5,
+      "one_line_summary": "Ross Gerber Thinks Tesla's Rumored Affordable Model Is Cybercab With A Steering: 'They'll Say Anything…' Yahoo Finance UK",
+      "why_it_matters": "시장 해석이 필요한 뉴스입니다."
+    }
+  ]
+}
